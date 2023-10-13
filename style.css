@@ -607,7 +607,7 @@ cursor: pointer;
 
 }
 .blog-img1{
-    background-image: url('/image1.jpg');
+    background-image: url('image1.jpg');
     height: 50%;
     width: 100%;
     background-position: center;
@@ -678,7 +678,7 @@ cursor: pointer;
 
 }
 .blog-img2{
-    background-image: url('/image2.jpg');
+    background-image: url('image2.jpg');
     height: 50%;
     width: 100%;
     background-position: center;
@@ -687,7 +687,7 @@ cursor: pointer;
     border-radius: 4px;
 }
 .blog-img3{
-    background-image: url('/image3.jpg');
+    background-image: url('image3.jpg');
     height: 50%;
     width: 100%;
     background-position: center;
